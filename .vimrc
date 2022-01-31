@@ -40,6 +40,7 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'preservim/nerdcommenter'
 Plug 'raimondi/delimitmate'
 Plug 'kien/ctrlp.vim'
+Plug 'vim-airline/vim-airline'
 "Plug 'valloric/youcompleteme'
 "Plug 'tpope/vim-surround'
 
