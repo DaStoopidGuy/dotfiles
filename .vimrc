@@ -16,6 +16,7 @@ set undofile
 set incsearch
 set colorcolumn=100
 set wildmenu
+set mouse=a "for using mouse in ALL modes
 highlight ColorColumn ctermbg=0 guibg=lightgrey
 
 
